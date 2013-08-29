@@ -8,10 +8,7 @@
 #   None
 #
 # Commands:
-#   http(s)://<site> - prints the title and meta description for sites linked.
 #
-# Authors:
-#   ajacksified
 
 jsdom = require('jsdom')
 
